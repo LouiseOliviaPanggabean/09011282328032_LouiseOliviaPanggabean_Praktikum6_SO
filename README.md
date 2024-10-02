@@ -24,8 +24,7 @@
    ![Screenshot from 2024-09-26 09-08-39](https://github.com/user-attachments/assets/9059d4f1-c1da-4ad0-8715-8c4a06fa5ca6)
 
 6. Setelah layanan aktif, maka kita bisa coba untuk menghubungkan ke server dengan masukkan perintah "ssh username@IP_address", dan masukkan kata sandi client yang akan kita hubungkan. Pada gambar berikut server telah terhubung dan kita bisa mengakses server client yang telah dihungkan, dan  Disini saya mencoba untuk memerintahkan untuk mengecek "history"
-
-  <img src="https://github.com/user-attachments/assets/129f1299-fe33-4bbe-acbd-af06d1948c62" width=500/>
+   <img src="https://github.com/user-attachments/assets/129f1299-fe33-4bbe-acbd-af06d1948c62" width=500/>
 
 
 # INSTALLASI CLIENT SERVER PuTTY
