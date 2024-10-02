@@ -27,7 +27,7 @@
    <img src="https://github.com/user-attachments/assets/129f1299-fe33-4bbe-acbd-af06d1948c62" width=500/>
 
 
-## B. INSTALLASI CLIENT SERVER PuTTY
+## B. INSTALLASI CLIENT SERVER PuTTY PADA UBUNTU LINUX
 1. Aktifkan repository Universe dalam sistem ,karena PuTTY tersedia di repositori Ubuntu Universe. Kemudian, lakukan pembaruan sistem "sudo apt update" , agar dipastikan semua paket pada sistem yang terinstall sudah menggunakan versi terbaru.
    
     <img src="https://github.com/user-attachments/assets/67d53d3a-6d74-456a-8491-120526fd2f34" width=500/>
