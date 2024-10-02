@@ -4,7 +4,7 @@
 
 # Praktikum Penerapan Aplikasi Client Server
 
-## INSTALASI DAN KONFIGURASI SSH SERVER PADA UBUNTU LINUX
+## A. INSTALASI DAN KONFIGURASI SSH SERVER PADA UBUNTU LINUX
 1. Lakukan pembaruan sistem "sudo apt update" , agar dipastikan semua paket pada sistem yang terinstall sudah menggunakan versi terbaru.
   
 2. Lakukan Installasi SSH server pada terminal "sudo apt install openssh-server"
@@ -27,7 +27,7 @@
    <img src="https://github.com/user-attachments/assets/129f1299-fe33-4bbe-acbd-af06d1948c62" width=500/>
 
 
-# INSTALLASI CLIENT SERVER PuTTY
+## B. INSTALLASI CLIENT SERVER PuTTY
 1. Aktifkan repository Universe dalam sistem ,karena PuTTY tersedia di repositori Ubuntu Universe. Kemudian, lakukan pembaruan sistem "sudo apt update" , agar dipastikan semua paket pada sistem yang terinstall sudah menggunakan versi terbaru.
    
     <img src="https://github.com/user-attachments/assets/67d53d3a-6d74-456a-8491-120526fd2f34" width=500/>
